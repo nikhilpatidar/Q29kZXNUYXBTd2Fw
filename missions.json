@@ -1,0 +1,559 @@
+{
+    "missions": [
+        {
+            "id": "M1000",
+            "title": "Watch the first video on our YouTube",
+            "answer": "739002"
+        },
+        {
+            "id": "M1001",
+            "title": "Highlights from the AMA",
+            "answer": "5"
+        },
+        {
+            "id": "M1002",
+            "title": "What the TON is?",
+            "answer": "548719"
+        },
+        {
+            "id": "M2000",
+            "title": "TapSwap Education",
+            "answer": "030072"
+        },
+        {
+            "id": "M1003",
+            "title": "TapSwap Education: Bitcoin and Altcoin",
+            "answer": "D57U94"
+        },
+        {
+            "id": "M1004",
+            "title": "Watch daily video",
+            "answer": "739551"
+        },
+        {
+            "id": "M2001",
+            "title": "5 Main Crypto Terms In 5 Minutes",
+            "answer": "2614907"
+        },
+        {
+            "id": "M1005",
+            "title": "The most famous cryptocurrency",
+            "answer": "D57U94"
+        },
+        {
+            "id": "M1006",
+            "title": "Drops and Rises",
+            "answer": "27F53K9"
+        },
+        {
+            "id": "M2002",
+            "title": "How Earn Money on CRYPTO",
+            "answer": "genesis"
+        },
+        {
+            "id": "M2003",
+            "title": "5 Ways to Make Money on Crypto",
+            "answer": "encryption"
+        },
+        {
+            "id": "M1007",
+            "title": "Memes and Cryptocurrencies!",
+            "answer": "4D80N74"
+        },
+        {
+            "id": "M2004",
+            "title": "Get started in crypto!",
+            "answer": "TRIBALISM"
+        },
+        {
+            "id": "M2005",
+            "title": "8 Warren Buffet rules",
+            "answer": "ABENOMICS"
+        },
+        {
+            "id": "M1008",
+            "title": "Fake news and Real news",
+            "answer": "G5D73H20"
+        },
+        {
+            "id": "M1009",
+            "title": "Cryptocurrency worldwide news",
+            "answer": "3PM71AK03X"
+        },
+        {
+            "id": "M2006",
+            "title": "Learn 10 New Crypto Terms",
+            "answer": "collateral"
+        },
+        {
+            "id": "M1010",
+            "title": "Top 10 Crypto Billionaires 2024",
+            "answer": "L6SE704V81"
+        },
+        {
+            "id": "M2007",
+            "title": "How Cryptocurrency Works",
+            "answer": "fibonacci"
+        },
+        {
+            "id": "M1011",
+            "title": "TapSwap: Curious Facts",
+            "answer": "F35K90V3"
+        },
+        {
+            "id": "M2008",
+            "title": "Get started in crypto!",
+            "answer": "liveness"
+        },
+        {
+            "id": "M1012",
+            "title": "Hot Crypto News",
+            "answer": "5J6OL847G7"
+        },
+        {
+            "id": "M2009",
+            "title": "The most DANGEROUS crypto scams",
+            "answer": "RANSOMWARE"
+        },
+        {
+            "id": "M1013",
+            "title": "How Bitcoin Mining Work",
+            "answer": "4K7U6E10G7"
+        },
+        {
+            "id": "M2010",
+            "title": "What are NFTs",
+            "answer": "tardigrade"
+        },
+        {
+            "id": "M1014",
+            "title": "TapSwap AMA internal",
+            "answer": "F9L34V5A"
+        },
+        {
+            "id": "M2011",
+            "title": "Elon Musk and Crypto ",
+            "answer": "unbanked"
+        },
+        {
+            "id": "M1015",
+            "title": "Financial Face-Off",
+            "answer": "D5784VHPC377"
+        },
+        {
+            "id": "M2012",
+            "title": "7 AI Tools That WILL Make You RICH",
+            "answer": "infinite"
+        },
+        {
+            "id": "M1016",
+            "title": "The Dark Side of Crypto",
+            "answer": "5SP670KR66"
+        },
+        {
+            "id": "M2013",
+            "title": "Crypto is not real money! ",
+            "answer": "parachain"
+        },
+        {
+            "id": "M1017",
+            "title": "Unlocking the Future",
+            "answer": "D772WQ9Z5"
+        },
+        {
+            "id": "M2014",
+            "title": "How to make money as a TEENAGER",
+            "answer": "instamine"
+        },
+        {
+            "id": "M1018",
+            "title": "USDT vs. USDC",
+            "answer": "7N008TQ31V"
+        },
+        {
+            "id": "M2015",
+            "title": "MAKE MONEY in crypto",
+            "answer": "WebSocket"
+        },
+        {
+            "id": "M1019",
+            "title": "Crypto Revolution",
+            "answer": "0TJN63R97A"
+        },
+        {
+            "id": "M1020",
+            "title": "Top 15 Crypto News",
+            "answer": "3KKLF7JO5"
+        },
+        {
+            "id": "M2016",
+            "title": "The Best Crypto Portfolio",
+            "answer": "unstoppable"
+        },
+        {
+            "id": "M2017",
+            "title": "Make 10x on Crypto",
+            "answer": "Onchain"
+        },
+        {
+            "id": "M1021",
+            "title": "Bitcion integration",
+            "answer": "547JL6AM7R"
+        },
+        {
+            "id": "M2018",
+            "title": "EARN ON AIRDROP",
+            "answer": "tendermint"
+        },
+        {
+            "id": "M1022",
+            "title": "Delicious Crypto news",
+            "answer": "Q7P9N3VD"
+        },
+        {
+            "id": "M2019",
+            "title": "10 Passive Income Ideas",
+            "answer": "renewable"
+        },
+        {
+            "id": "M1023",
+            "title": "Top 10 Bitcoin Whales",
+            "answer": "5G36SQ"
+        },
+        {
+            "id": "M2020",
+            "title": "Ethereum Will Be Worth $20,000",
+            "answer": "emission"
+        },
+        {
+            "id": "M1024",
+            "title": "Top 10 Bitcoin Whales part 2",
+            "answer": "27MZ"
+        },
+        {
+            "id": "M1025",
+            "title": "Secure Your Crypto",
+            "answer": "1T89G"
+        },
+        {
+            "id": "M2021",
+            "title": "How Blockchain ACTUALLY Work",
+            "answer": "marlowe"
+        },
+        {
+            "id": "M1026",
+            "title": "Secure Your Crypto Part 2",
+            "answer": "L3AE7"
+        },
+        {
+            "id": "M2022",
+            "title": "Do This To Become A Millionaire in 2024",
+            "answer": "function"
+        },
+        {
+            "id": "M1027",
+            "title": "Secure Your Crypto",
+            "answer": "1T89G"
+        },
+        {
+            "id": "M2023",
+            "title": "How To Stay Productive",
+            "answer": "quantum"
+        },
+        {
+            "id": "M1028",
+            "title": "Secure Your Crypto Part 2",
+            "answer": "L3AE710"
+        },
+        {
+            "id": "M2024",
+            "title": "10 Websites To Earn Money",
+            "answer": "watchlist"
+        },
+        {
+            "id": "M1029",
+            "title": "Bitcoin halving",
+            "answer": "7JSZ7"
+        },
+        {
+            "id": "M2025",
+            "title": "If I Started From Scratch Again",
+            "answer": "farming"
+        },
+        {
+            "id": "M2026",
+            "title": "What CRYPTO To Buy With $500",
+            "answer": "hashgraph"
+        },
+        {
+            "id": "M1030",
+            "title": "Bitcoin halving | Part 2",
+            "answer": "YK797"
+        },
+        {
+            "id": "M2027",
+            "title": "Where To Start in Crypto",
+            "answer": "electrum"
+        },
+        {
+            "id": "M2028",
+            "title": "Earn $2000+ Watching Youtube",
+            "answer": "immutable"
+        },
+        {
+            "id": "M1031",
+            "title": "Crypto news!",
+            "answer": "1MH89S"
+        },
+        {
+            "id": "M2029",
+            "title": "Make $500 A Day",
+            "answer": "backlog"
+        },
+        {
+            "id": "M1032",
+            "title": "Crypto news Part 2",
+            "answer": "7L6PB"
+        },
+        {
+            "id": "M2030",
+            "title": "Make $5,000 per a Month",
+            "answer": "royalties"
+        },
+        {
+            "id": "M1033",
+            "title": "TON Ecosystem Alert",
+            "answer": "8NL6FW9"
+        },
+        {
+            "id": "M2031",
+            "title": "How To Farm 1 MILLION Coins In TapSwap",
+            "answer": "timelock"
+        },
+        {
+            "id": "M2032",
+            "title": "Crypto Bots are SCAMMING you!",
+            "answer": "inflation"
+        },
+        {
+            "id": "M1034",
+            "title": "Blockchain Secrets",
+            "answer": "2V3L5"
+        },
+        {
+            "id": "M2033",
+            "title": "You Will LOSE Your Money",
+            "answer": "rebalancing"
+        },
+        {
+            "id": "M1035",
+            "title": "Blockchain Secrets Part 2",
+            "answer": "9SX634"
+        },
+        {
+            "id": "M2034",
+            "title": "10 Websites That Will Pay You",
+            "answer": "keylogger"
+        },
+        {
+            "id": "M1036",
+            "title": "TapSwap Internal News",
+            "answer": "1T75S7"
+        },
+        {
+            "id": "M2035",
+            "title": "Get Paid +$750 EVERY 20 Minutes Online",
+            "answer": "scaling"
+        },
+        {
+            "id": "M1037",
+            "title": "Why Are People Going Crazy for NFTs?",
+            "answer": "2NV4Z"
+        },
+        {
+            "id": "M2036",
+            "title": "Earn Money For Listening To Music",
+            "answer": "raiden"
+        },
+        {
+            "id": "M1038",
+            "title": "Why Are People Going Crazy for NFTs? | Part 2",
+            "answer": "J9RO8"
+        },
+        {
+            "id": "M2037",
+            "title": "You Will LOSE Your Money - Don`t DO IT",
+            "answer": "nominators"
+        },
+        {
+            "id": "M2038",
+            "title": "How To Create Your OWN COIN?",
+            "answer": "payout"
+        },
+        {
+            "id": "M1039",
+            "title": "Bitcoin Update: Mt. Gox Payouts",
+            "answer": "PD9S6HN81M"
+        },
+        {
+            "id": "M2039",
+            "title": "How To Make Money on STOCKS",
+            "answer": "fakeout"
+        },
+        {
+            "id": "M1040",
+            "title": "Hot news!",
+            "answer": "5FR63U"
+        },
+        {
+            "id": "M1041",
+            "title": "Cool news!",
+            "answer": "5L32DN"
+        },
+        {
+            "id": "M1042",
+            "title": "Mastering Bitcoin",
+            "answer": "5FR63U"
+        },
+        {
+            "id": "M2040",
+            "title": "Make $30 Per Word With Typing",
+            "answer": "ledger"
+        },
+        {
+            "id": "M2041",
+            "title": "10 LEGIT APPs That Will Pay You Daily",
+            "answer": "darknodes"
+        },
+        {
+            "id": "M1043",
+            "title": "TapSwap Education. Part 1",
+            "answer": "J386XS"
+        },
+        {
+            "id": "M1045",
+            "title": "TapSwap Education. Part 2",
+            "answer": "5UY4W1"
+        },
+        {
+            "id": "M2042",
+            "title": "How To Make $12,000/month",
+            "answer": "lambo"
+        },
+        {
+            "id": "M2043",
+            "title": "7 Laziest Ways to Make Money Online",
+            "answer": "replay"
+        },
+        {
+            "id": "M2044",
+            "title": "Make $5,000+ with Pinterest",
+            "answer": "invest"
+        },
+        {
+            "id": "M2045",
+            "title": "Earn $100+ per Day in Telegram",
+            "answer": "curve"
+        },
+        {
+            "id": "M1046",
+            "title": "Crypto Security Upgraded",
+            "answer": "check"
+        },
+        {
+            "id": "M1047",
+            "title": "Crypto Security Upgraded | Part 2",
+            "answer": "check"
+        },
+        {
+            "id": "M2046",
+            "title": "How To Spot 100X Altcoin",
+            "answer": "lachesis"
+        },
+        {
+            "id": "M2047",
+            "title": "Start Your Business Under $100",
+            "answer": "liquid"
+        },
+        {
+            "id": "M1048",
+            "title": "Revolutionizing Investments",
+            "answer": "check"
+        },
+        {
+            "id": "M1049",
+            "title": "Revolutionizing Investments | Part 2",
+            "answer": "check"
+        },
+        {
+            "id": "M2048",
+            "title": "10 Habits of Millionaires",
+            "answer": "mainnet"
+        },
+        {
+            "id": "M2049",
+            "title": "Make $755 While You Sleep",
+            "answer": "quorum"
+        },
+        {
+            "id": "M1050",
+            "title": "Blockchain Speed Showdown 1",
+            "answer": "check"
+        },
+        {
+            "id": "M1051",
+            "title": "Blockchain Speed Showdown 2",
+            "answer": "check"
+        },
+        {
+            "id": "M1052",
+            "title": "Staking in 2024",
+            "answer": "check"
+        },
+        {
+            "id": "M2050",
+            "title": "10 Best Dropshipping Niches",
+            "answer": "perpetual"
+        },
+        {
+            "id": "M2051",
+            "title": "Sell Your Photos for $5 per One",
+            "answer": "scam"
+        },
+        {
+            "id": "M1053",
+            "title": "Key Steps to Safe Crypto Investments",
+            "answer": "check"
+        },
+        {
+            "id": "M2052",
+            "title": "20 Best YouTube Niche",
+            "answer": "flashbots"
+        },
+        {
+            "id": "M2053",
+            "title": "5 REAL Apps That Pay You To Walk",
+            "answer": "capital"
+        },
+        {
+            "id": "M1054",
+            "title": "Key Steps to Safe Crypto Investments",
+            "answer": "check"
+        },
+        {
+            "id": "M1055",
+            "title": "Maximize Your Impact",
+            "answer": "check"
+        },
+        {
+            "id": "M1056",
+            "title": "Bitcoin to EU Citizenship",
+            "answer": "check"
+        },
+        {
+            "id": "M2054",
+            "title": "10 Best Budgeting Apps",
+            "answer": "node"
+        }
+    ]
+}
